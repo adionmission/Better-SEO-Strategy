@@ -1,6 +1,10 @@
-# Better SEO Strategy
+# Better Marketing Company SEO Strategy
 
-As a part of assignment, worked on the SEO strategy for Better Marketing company located in Jaipur, Rajasthan, India
+![GitHub License](https://img.shields.io/github/license/adionmission/Better-SEO-Strategy)
+![GitHub Release Date](https://img.shields.io/github/release-date/adionmission/Better-SEO-Strategy)
+![GitHub repo size](https://img.shields.io/github/repo-size/adionmission/Better-SEO-Strategy)
+
+As a part of assignment, worked on the SEO strategy for Better Marketing company located in Jaipur, Rajasthan, India.
 
 ## Presentation Slides
 
